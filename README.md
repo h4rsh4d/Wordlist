@@ -4,4 +4,7 @@ This repository contain wordlist
 
 
 
-#Under development
+# Under development
+# Thanks To
+https://github.com/xajkep/wordlists/tree/master/discovery
+
